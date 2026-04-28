@@ -1,18 +1,3 @@
-
-//CÓDIGO DE C EN VSC
-
-#include <stdio.h> 
-
-int main ()
-{
-
-
-printf("Hola, mundo!\n");
-return 0;
-
-
-}
-
 //INTERACCIÓN EN LA TERMINAL
 
 PS C:\Users\lauag\OneDrive\Desktop> gcc -o helloWord hello.c
